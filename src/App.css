@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+
+.navbar {
+  background-color: transparent;
+}
+
+.navbar ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar li a {
+  color: #000;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.navbar li a:hover{
+  color: skyblue;
+}
+
+.navbar li a:active{
+  /* color: red; */
+}
+
+/* link, visited, hover, active */
+
+
+.login-btn {
+  cursor: pointer;
+}
