@@ -1,4 +1,5 @@
 # Auth0 React App
 
-Sample project utilizing Auth0
+React project utilizing Auth0
 
+TODO: handle route access
